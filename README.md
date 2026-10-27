@@ -7,7 +7,9 @@
 <h1>CREATE TWO SUBNETS (PUBLIC AND PRIVATE) UNDER VPC A WITH SAME AVAILABILITY ZONES<h1>
   
 <img width="1857" height="977" alt="image" src="https://github.com/user-attachments/assets/4825cc37-d91c-4b85-9d08-6edc38c326bc" />
+
 <h7></h7>
+
 <img width="1855" height="970" alt="image" src="https://github.com/user-attachments/assets/75d20105-98ff-4b58-9aa5-0c3c3ac2833f" />
 
 <img width="1858" height="975" alt="image" src="https://github.com/user-attachments/assets/d089ec82-2490-44ae-8090-06cc23207e50" />
