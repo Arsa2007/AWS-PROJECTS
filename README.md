@@ -2,7 +2,7 @@
 <h1>CREATE VPC AND NAME IT<h1>
 <img width="1852" height="956" alt="image" src="https://github.com/user-attachments/assets/2a396d8e-9ea8-45d4-bdb3-bfcd386029ba" />
 
-
+<br>
 
 <h1>CREATE TWO SUBNETS (PUBLIC AND PRIVATE) UNDER VPC A WITH SAME AVAILABILITY ZONES<h1>
   
@@ -79,3 +79,31 @@
 <img width="1847" height="967" alt="image" src="https://github.com/user-attachments/assets/50e558a5-7430-44ec-bfa5-741c74a896e4" />
 
 <img width="1838" height="962" alt="image" src="https://github.com/user-attachments/assets/a81da1e5-ad67-4882-a9f8-bb43b845c7f8" />
+
+
+
+<h1>KEY LOCKING</h1>
+
+<img width="1917" height="1002" alt="image" src="https://github.com/user-attachments/assets/c2af5d08-535f-4de5-9f64-6d9f48595bdd" />
+
+
+<h1>CHANGED THE EC2 NAME</h1>
+<img width="1847" height="945" alt="image" src="https://github.com/user-attachments/assets/665518fc-7aab-4992-8507-6b1554e759ff" />
+
+<img width="1917" height="1028" alt="image" src="https://github.com/user-attachments/assets/9accca33-bafc-4339-a3b7-89c859290884" />
+
+
+<h1>CREATE A PEER CONNECTION</h1>
+<img width="1851" height="927" alt="image" src="https://github.com/user-attachments/assets/a14ceae6-1169-4237-87dc-65fa34725205" />
+
+<img width="1846" height="968" alt="image" src="https://github.com/user-attachments/assets/651e61b8-be0d-4050-8d19-2db7904dbff0" />
+
+<img width="1856" height="958" alt="image" src="https://github.com/user-attachments/assets/e5270f86-df87-4465-b24d-bb12b94dea75" />
+
+
+<h1>TESTING</h1>
+<img width="1917" height="1025" alt="image" src="https://github.com/user-attachments/assets/065bf70b-9ee5-40e8-b9a1-1f58ebae20fc" />
+<img width="1916" height="1015" alt="image" src="https://github.com/user-attachments/assets/dd3df382-5618-49a5-930b-ac1cc92e0522" />
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/a9de63c2-0de4-448e-8c43-fc4de684551f" />
+
+
