@@ -1,8 +1,4 @@
-<style>
-  .gallery-img {
-    margin: 15px; 
-  }
-</style>
+
 
 # AWS-PROJECTS
 <h1>CREATE VPC AND NAME IT<h1>
@@ -12,13 +8,13 @@
 
 <h1>CREATE TWO SUBNETS (PUBLIC AND PRIVATE) UNDER VPC A WITH SAME AVAILABILITY ZONES<h1>
   
-<img width="1857" height="977" alt="image" src="https://github.com/user-attachments/assets/4825cc37-d91c-4b85-9d08-6edc38c326bc" />
+<img width="1857" height="977" alt="image" src="https://github.com/user-attachments/assets/4825cc37-d91c-4b85-9d08-6edc38c326bc"  class="gallery-img" />
 
 <br>
 
-<img width="1855" height="970" alt="image" src="https://github.com/user-attachments/assets/75d20105-98ff-4b58-9aa5-0c3c3ac2833f" />
+<img width="1855" height="970" alt="image" src="https://github.com/user-attachments/assets/75d20105-98ff-4b58-9aa5-0c3c3ac2833f" class="gallery-img" />
 
-<img width="1858" height="975" alt="image" src="https://github.com/user-attachments/assets/d089ec82-2490-44ae-8090-06cc23207e50" />
+<img width="1858" height="975" alt="image" src="https://github.com/user-attachments/assets/d089ec82-2490-44ae-8090-06cc23207e50"  class="gallery-img" />
 
 
 
@@ -111,5 +107,11 @@
 <img width="1917" height="1025" alt="image" src="https://github.com/user-attachments/assets/065bf70b-9ee5-40e8-b9a1-1f58ebae20fc" />
 <img width="1916" height="1015" alt="image" src="https://github.com/user-attachments/assets/dd3df382-5618-49a5-930b-ac1cc92e0522" />
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/a9de63c2-0de4-448e-8c43-fc4de684551f" />
+
+<style>
+  .gallery-img {
+    margin: 15px; 
+  }
+</style>
 
 
