@@ -1,6 +1,12 @@
+<style>
+  .gallery-img {
+    margin: 15px; 
+  }
+</style>
+
 # AWS-PROJECTS
 <h1>CREATE VPC AND NAME IT<h1>
-<img width="1852" height="956" alt="image" src="https://github.com/user-attachments/assets/2a396d8e-9ea8-45d4-bdb3-bfcd386029ba" />
+<img width="1852" height="956" alt="image" src="https://github.com/user-attachments/assets/2a396d8e-9ea8-45d4-bdb3-bfcd386029ba" class="gallery-img" />
 
 
 
