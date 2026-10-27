@@ -2,13 +2,13 @@
 <h1>CREATE VPC AND NAME IT<h1>
 <img width="1852" height="956" alt="image" src="https://github.com/user-attachments/assets/2a396d8e-9ea8-45d4-bdb3-bfcd386029ba" />
 
-<br>
+
 
 <h1>CREATE TWO SUBNETS (PUBLIC AND PRIVATE) UNDER VPC A WITH SAME AVAILABILITY ZONES<h1>
   
 <img width="1857" height="977" alt="image" src="https://github.com/user-attachments/assets/4825cc37-d91c-4b85-9d08-6edc38c326bc" />
 
-</img>
+<br>
 
 <img width="1855" height="970" alt="image" src="https://github.com/user-attachments/assets/75d20105-98ff-4b58-9aa5-0c3c3ac2833f" />
 
