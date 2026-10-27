@@ -108,10 +108,5 @@
 <img width="1916" height="1015" alt="image" src="https://github.com/user-attachments/assets/dd3df382-5618-49a5-930b-ac1cc92e0522" />
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/a9de63c2-0de4-448e-8c43-fc4de684551f" />
 
-<style>
-  .gallery-img {
-    margin: 15px; 
-  }
-</style>
 
 
